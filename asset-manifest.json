@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb3a819a.chunk.css",
+    "main.js": "/static/js/main.e1161741.chunk.js",
+    "main.js.map": "/static/js/main.e1161741.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ee28b46c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ee28b46c.js.map",
+    "static/js/2.66b948de.chunk.js": "/static/js/2.66b948de.chunk.js",
+    "static/js/2.66b948de.chunk.js.map": "/static/js/2.66b948de.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cb3a819a.chunk.css.map": "/static/css/main.cb3a819a.chunk.css.map",
+    "static/js/2.66b948de.chunk.js.LICENSE.txt": "/static/js/2.66b948de.chunk.js.LICENSE.txt",
+    "static/media/Blog.126b3a94.jpg": "/static/media/Blog.126b3a94.jpg",
+    "static/media/FontLibrary.52b24db2.jpg": "/static/media/FontLibrary.52b24db2.jpg",
+    "static/media/Gallery.f40c6474.jpg": "/static/media/Gallery.f40c6474.jpg",
+    "static/media/ImageToolkit.fec38773.jpg": "/static/media/ImageToolkit.fec38773.jpg",
+    "static/media/Logo.65b17078.png": "/static/media/Logo.65b17078.png",
+    "static/media/Logo.bd4f40b1.png": "/static/media/Logo.bd4f40b1.png",
+    "static/media/NotoSansSC-Thin.6c2a70c5.woff": "/static/media/NotoSansSC-Thin.6c2a70c5.woff",
+    "static/media/QRcode.51db8281.png": "/static/media/QRcode.51db8281.png",
+    "static/media/TechNotebook.ad88c845.jpg": "/static/media/TechNotebook.ad88c845.jpg",
+    "static/media/UserCenter.c9f10bd8.jpg": "/static/media/UserCenter.c9f10bd8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee28b46c.js",
+    "static/js/2.66b948de.chunk.js",
+    "static/css/main.cb3a819a.chunk.css",
+    "static/js/main.e1161741.chunk.js"
+  ]
+}
